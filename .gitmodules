@@ -1,0 +1,12 @@
+[submodule "thirdParty/imgui"]
+	path = thirdParty/imgui
+	url = git@github.com:ocornut/imgui.git
+[submodule "thirdParty/rlImGui"]
+	path = thirdParty/rlImGui
+	url = git@github.com:raylib-extras/rlImGui.git
+[submodule "thirdParty/imgui-filebrowser"]
+	path = thirdParty/imgui-filebrowser
+	url = git@github.com:AirGuanZ/imgui-filebrowser.git
+[submodule "thirdParty/implot"]
+	path = thirdParty/implot
+	url = git@github.com:epezent/implot.git
