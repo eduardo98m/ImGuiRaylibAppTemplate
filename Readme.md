@@ -2,7 +2,16 @@
 
 This package is a template to make a C/C++ application using raylib and Dear ImGui.
 
+## Features
 
-# Pre-requisites
+The template comes with the following libraries as submodules:
+ 
+ * imgui
+ * imgui-filebrowser
+ * implot
+ * rlImGUI
 
-For building this project you will need to have raylib installed in your system. 
+**Raylib needs to be preinstalled in your system to be able to compile**
+
+
+
