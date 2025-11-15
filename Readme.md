@@ -10,8 +10,20 @@ The template comes with the following libraries as submodules:
  * imgui-filebrowser
  * implot
  * rlImGUI
+  
+**Raylib needs to be installed in your system to be able to compile** (You can also add raylib as a dependency and compilte it).
 
-**Raylib needs to be preinstalled in your system to be able to compile**
+## Compiling
+
+To compile and run the aplication execute the following comands
+
+```sh
+mkdir build
+cd build 
+cmake ..
+make -j4
+```
+
 
 
 
